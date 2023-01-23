@@ -1,4 +1,4 @@
-### Hi there 👋 Working...
+### Hi there 👋 
 I'm a first year student at The University of Ontario 🚀 studying computer science. I 
 enjoy talking about tech and all cs related. Send me a message if you ever want to talk!
 
