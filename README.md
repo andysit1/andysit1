@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
+I'm student at The University of Ontario studying computer science. I 
+enjoy talking about tech and all computer science related. Send me a message if you ever want to talk!
 
 <!--
 **andysit1/andysit1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
