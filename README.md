@@ -10,10 +10,9 @@ Currently, I'm working on a notes hub to keep my notes I create on the internet 
 
 ## 🛠 Learning...
 - Algorithms and Data Structures
-- System Structures
-- Web Development -> Javascript Typescript 
+- Web Development -> Three.js Django
 - Jenkins Docker Kubernetes
-- Basics of Machine Learning
+
 
 
 <!--
