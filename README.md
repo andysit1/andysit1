@@ -1,8 +1,7 @@
 ### Hi there 👋 
-I'm a first year student at The University of Western Ontario 🚀 studying computer science. I 
+I'm a second year student at The University of Western Ontario 🚀 studying computer science. I 
 enjoy talking about tech and video games.
 
-Currently, I'm working on a website to trade skins with FastAPI.
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andy-sit-413165219/)
