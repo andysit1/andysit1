@@ -8,7 +8,7 @@ enjoy talking about tech and video games.
 
 
 ## 🛠 Working on..
-Eudaimonia Machine
+Eudaimonia Machine and Project-F
 
 
 
