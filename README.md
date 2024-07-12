@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I'm a second year student at The University of Western Ontario 🚀 studying computer science. I 
+I'm a 19-year-old student entering my third year at The University of Western Ontario 🚀 studying computer science. I 
 enjoy talking about tech and video games.
 
 
@@ -8,8 +8,8 @@ enjoy talking about tech and video games.
 
 
 ## 🛠 Working on..
-Eudaimonia Machine and Project-F
-
+Main Projects - Project-F, Video-Content-Pipeline, Notepad-TUI 
+Side Projects - Textual Portfolio Website, Highlight Apps, and Thumbnail Generator
 
 
 <!--
