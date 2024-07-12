@@ -8,7 +8,7 @@ enjoy talking about tech and video games.
 
 
 ## 🛠 Working on..
-Main Projects - Project-F, Video-Content-Pipeline, Notepad-TUI \n
+Main Projects - Project-F, Video-Content-Pipeline, Notepad-TUI <br> 
 Side Projects - Textual Portfolio Website, Highlight Apps, and Thumbnail Generator
 
 
