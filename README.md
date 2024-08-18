@@ -6,7 +6,6 @@ You can find me on [Discord](https://discordapp.com/users/221336351478513664), [
 About me...
 ---
 
-- The very first language I touched was lua
 - Got into programming through game dev
 - I’m interested in game development, particularly the implementation
 - video processing and automation are some key interests
