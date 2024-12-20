@@ -18,3 +18,5 @@ see frog...
 ---
 
 <img src="/frog.jpeg" alt="frog" width="300" height="200" />
+
+<img src="/qr_code.PNG" alt="frog" width="100" height="100" />
