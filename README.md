@@ -7,12 +7,7 @@ You can find me on [Discord](https://discordapp.com/users/221336351478513664), [
 
 About me...
 ---
-
-- Got into programming through game dev
-- I’m interested in game development, particularly the implementation
 - video processing and automation are some key interests
-- I like to read a lot about productivity
-- Working on branching into different topics
 
 see frog...
 ---
