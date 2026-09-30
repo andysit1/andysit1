@@ -1,7 +1,6 @@
 # Andy Sit
 
-CS student at Western University (graduating April 2027). Helped build control system, chemical simulation, and real-time audio and video software.
-
+CS student at Western University (graduating April 2027). I've built control-system, chemical-simulation, and real-time audio and video software.
 
 **Projects**
 - **[memo-engine](https://github.com/andysit1/memo-engine)**: C++20 audio capture engine that keeps multiple tracks aligned within 0.79 ms over 2 hours
